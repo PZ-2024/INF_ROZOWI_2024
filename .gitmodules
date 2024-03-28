@@ -4,3 +4,6 @@
 [submodule "itms-frontend"]
 	path = itms-frontend
 	url = https://github.com/cyboranf/itms-frontend.git
+[submodule "itms-library"]
+	path = itms-library
+	url = https://github.com/cyboranf/itms-pdf-library.git
